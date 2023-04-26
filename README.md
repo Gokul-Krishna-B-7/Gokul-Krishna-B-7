@@ -6,7 +6,7 @@
 <br><br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gokul-krishna-b-7&label=Profile%20views&color=0e75b6&style=flat" alt="gokul-krishna-b-7" /> </p>
 
-- 🌱 I’m currently learning **Full Stack Web Developing**
+- 🌱 I’m currently learning **Full Stack Web Development**
 
 - 💬 Ask me about **HTML,CSS,EJS,C++,Python,C,JAVA**
 
