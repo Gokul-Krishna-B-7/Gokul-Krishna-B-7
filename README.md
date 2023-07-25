@@ -3,7 +3,7 @@
 
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 <br><br>
-<a href="https://app.daily.dev/gokul_krishna_b"><img src="https://api.daily.dev/devcards/9796e1793aba4525b67d92b4411af36b.png?r=8qi" width="400" alt="Gokul Krishna B's Dev Card"/></a>
+<a href="https://app.daily.dev/gokul_krishna_b"><img src="https://api.daily.dev/devcards/9796e1793aba4525b67d92b4411af36b.png?r=dqw" width="400" alt="Gokul Krishna B's Dev Card"/></a>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gokul-krishna-b-7&label=Profile%20views&color=0e75b6&style=flat" alt="gokul-krishna-b-7" /> </p>
 
 - 🌱 I’m currently learning **Full Stack Web Development**
